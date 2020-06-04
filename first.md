@@ -48,8 +48,6 @@ one >> two >> three >> four >> five >> six >> final
 
 ![alt tag](images/sequential.png)
 
-2. 
-
 
 2.  two and three and four  parallel tasks abd other sequentials
 one >> [two , three , four ] >> five >> six >> final
@@ -57,8 +55,14 @@ one >> [two , three , four ] >> five >> six >> final
 ![alt tag](images/parallel_seq.png)
 
 
-3. 
-one >> [two , three]
+3.  two and three seq and parallel to four and five
+one >> two >> three
+one >> four >> five
+[three,five ] >> six
+six >> final
+![alt tag](images/parallel_seq1.png)
+
+4. one >> [two , three]
 
 three >> [four,five]
 
