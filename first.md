@@ -47,6 +47,7 @@ final = DummyOperator(task_id='final', dag=dag)
 
 ![alt tag](images/sequential.png)
 
+
 2. 
 
 one >> [two , three]
