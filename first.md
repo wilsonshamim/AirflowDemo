@@ -45,6 +45,8 @@ final = DummyOperator(task_id='final', dag=dag)
 ```
 1. sequential tasks:
 
+![alt tag](images/sequential.png)
+
 2. 
 
 one >> [two , three]
@@ -56,4 +58,3 @@ six >> final
 [four,five] >> final
 
 ![alt tag](images/img1.png)
-![alt tag](images/sequential.png)
