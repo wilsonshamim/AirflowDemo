@@ -52,3 +52,6 @@ with dag:
         branching >> d
         
  ```
+ 
+ ![alt tag](images/BranchPythonOperator.png)
+
