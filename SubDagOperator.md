@@ -40,6 +40,7 @@ def sub_dag(pdag,cdag,date1,sch):
 ```
 
 third is to call the subdag from parent dag:
+```
 sub_dag = SubDagOperator(
     task_id='subdag_op',
     subdag=sub_dag('pdag','subdag_op',p_dag.start_date,p_dag.schedule_interval),
@@ -48,5 +49,5 @@ sub_dag = SubDagOperator(
     dag=p_dag,
 )
 
-
+```
 the format should be parentdag.subdag
