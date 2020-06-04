@@ -48,9 +48,13 @@ one >> two >> three >> four >> five >> six >> final
 
 ![alt tag](images/sequential.png)
 
+2. 
+
 
 2.  two and three and four  parallel tasks abd other sequentials
 one >> [two , three , four ] >> five >> six >> final
+
+![alt tag](images/parallel_seq.png)
 
 
 3. 
