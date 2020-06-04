@@ -9,5 +9,5 @@ for x in range(3):
         one >> seven >> final
         
         
-![alt tag](images/parallel_seq.png)
+![alt tag](images/dynamic_parallel.png)
 
