@@ -11,3 +11,4 @@ for x in range(3):
         
 ![alt tag](images/dynamic_parallel.png)
 
+
