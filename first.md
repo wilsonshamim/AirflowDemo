@@ -1,7 +1,7 @@
 
 Code:
 
-import os
+``import os
 from airflow.operators import BashOperator
 from airflow.models import DAG
 from airflow.operators import PythonOperator, DummyOperator
@@ -42,7 +42,7 @@ five = DummyOperator(task_id='five', dag=dag)
 six = DummyOperator(task_id='six', dag=dag)
 final = DummyOperator(task_id='final', dag=dag)
 
-
+``
 1. sequential tasks:
 
 2. 
