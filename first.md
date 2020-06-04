@@ -60,6 +60,7 @@ one >> two >> three
 one >> four >> five
 [three,five ] >> six
 six >> final
+
 ![alt tag](images/parallel_seq_1].png)
 
 4. one >> [two , three]
@@ -68,6 +69,7 @@ three >> [four,five]
 
 two >> six
 six >> final
+
 [four,five] >> final
 
 ![alt tag](images/img1.png)
