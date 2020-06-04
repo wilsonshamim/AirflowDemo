@@ -60,7 +60,7 @@ one >> two >> three
 one >> four >> five
 [three,five ] >> six
 six >> final
-![alt tag](images/parallel_seq1.png)
+![alt tag](images/parallel_seq_1].png)
 
 4. one >> [two , three]
 
