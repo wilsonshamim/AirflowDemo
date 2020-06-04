@@ -56,3 +56,4 @@ six >> final
 [four,five] >> final
 
 ![alt tag](images/img1.png)
+![alt tag](images/sequential.png)
