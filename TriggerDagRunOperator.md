@@ -80,3 +80,9 @@ trigger = TriggerDagRunOperator(
 )
 
 ```
+
+![alt tag](images/triggerDagRun.png)
+
+top image shows tagrun1
+last image shows tagrun2
+
